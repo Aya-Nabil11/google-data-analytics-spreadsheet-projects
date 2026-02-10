@@ -56,10 +56,6 @@ Across these projects, I practiced:
 - Clear documentation of analysis steps and insights
 - Translating data into actionable recommendations
 
----
-
-## 👤 Author
-**Ayoosh**
 
 ---
 
